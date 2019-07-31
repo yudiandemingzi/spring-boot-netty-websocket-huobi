@@ -15,7 +15,7 @@
 #### 1、技术架构
 
 ```
-SpringBoot2.1.5 +Netty4.1.25 + Maven3.5.4 + lombok(插件)
+SpringBoot2.1.5 + Netty4.1.25 + Maven3.5.4 + lombok(插件)
 ```
 
 #### 2、项目整体结构

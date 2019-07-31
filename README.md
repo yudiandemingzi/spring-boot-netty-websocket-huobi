@@ -1,7 +1,4 @@
 
-
-# Netty+WebSocket获取火币网数据
-
 ### 简介
 
 **本项目使用Netty来开发WebSocket服务器，通过与火币交易所Websocket建立连接后，获取火币网时时推送过来的交易对最新数据**。

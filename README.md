@@ -1,7 +1,7 @@
 
 ### 简介
 
-本项目使用SpringBoot+Netty来开发WebSocket服务器,通过与火币交易所Websocket建立连接后,时时推送过来的交易对最新数据。
+本项目使用SpringBoot+Netty来开发WebSocket服务器,与火币交易所Websocket建立连接,时时获取火币网交易所推送过来的交易对最新数据。
 
 该项目可以直接运用于实际开发中，做为获取各大交易所最新交易对相关数据的项目。
 

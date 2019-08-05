@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * @Description:  启动类
+ * @Description: 启动类
  *
  * @author xub
  * @date 2019/7/27 下午7:07

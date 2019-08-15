@@ -1,7 +1,7 @@
 
 有关该项目中的代码部分简单解释，可以查看博客。
 
-1、[Netty+WebSocket 获取火币交易所时时数据项目](https://www.cnblogs.com/qdhxhz/p/11278746.html)
+1、[Netty+WebSocket 获取火币交易所时时数据项目](https://www.cnblogs.com/qdhxhz/p/11280533.html)
 
 ### 简介
 

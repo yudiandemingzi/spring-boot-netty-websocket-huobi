@@ -38,7 +38,7 @@ public class HuoBiProWebSocketClient extends AbstractWebSocketClient {
 	public void connect() {
 		try {
 			subId = UUID.randomUUID().toString();
-			//该域名 仅限于国内网络环境测试使用， 生产环境使用 wss://api.huobi.pro/ws
+			//TODO 注意这里的订阅地址来自火币网 如果连不上可以试下其它地址。当然也可能需要外网才能访问 火币官方API https://www.huobi.com/zh-cn/
 			String url = "wss://api.huobi.pro/ws";
 			final URI uri = URI.create(url);
 

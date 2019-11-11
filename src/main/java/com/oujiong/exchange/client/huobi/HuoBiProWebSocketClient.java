@@ -1,8 +1,8 @@
-package com.jincou.exchange.client.huobi;
+package com.oujiong.exchange.client.huobi;
 
 import com.alibaba.fastjson.JSONObject;
-import com.jincou.exchange.client.common.AbstractWebSocketClient;
-import com.jincou.exchange.client.huobi.service.HuoBiProWebSocketService;
+import com.oujiong.exchange.client.common.AbstractWebSocketClient;
+import com.oujiong.exchange.client.huobi.service.HuoBiProWebSocketService;
 
 
 import io.netty.handler.codec.http.DefaultHttpHeaders;
@@ -39,7 +39,7 @@ public class HuoBiProWebSocketClient extends AbstractWebSocketClient {
 		try {
 			subId = UUID.randomUUID().toString();
 			//该域名 仅限于国内网络环境测试使用， 生产环境使用 wss://api.huobi.pro/ws
-			String url = "wss://api.huobi.br.com/ws";
+			String url = "wss://api.huobi.pro/ws";
 			final URI uri = URI.create(url);
 
 			//自定义handle加入Pipeline管道中

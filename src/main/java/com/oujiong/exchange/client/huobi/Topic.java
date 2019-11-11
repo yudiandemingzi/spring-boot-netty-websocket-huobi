@@ -1,4 +1,4 @@
-package com.jincou.exchange.client.huobi;
+package com.oujiong.exchange.client.huobi;
 
 /**
  * @Description: 订阅主题, 火币网

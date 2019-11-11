@@ -1,6 +1,6 @@
-package com.jincou.exchange.client.utils;
+package com.oujiong.exchange.client.utils;
 
-import com.jincou.exchange.client.common.AbstractWebSocketClient;
+import com.oujiong.exchange.client.common.AbstractWebSocketClient;
 import lombok.extern.slf4j.Slf4j;
 
 

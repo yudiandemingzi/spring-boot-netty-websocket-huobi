@@ -1,4 +1,4 @@
-package com.jincou.exchange.client.enums;
+package com.oujiong.exchange.client.enums;
 
 /**
  * @Description: 获取各大交易所的最新交易对消息

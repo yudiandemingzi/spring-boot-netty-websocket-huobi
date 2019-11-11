@@ -1,7 +1,7 @@
-package com.jincou.exchange.client.common;
+package com.oujiong.exchange.client.common;
 
 import com.google.common.collect.Sets;
-import com.jincou.exchange.client.utils.MonitorTask;
+import com.oujiong.exchange.client.utils.MonitorTask;
 import io.netty.bootstrap.Bootstrap;
 import io.netty.channel.*;
 import io.netty.channel.nio.NioEventLoopGroup;

@@ -1,10 +1,10 @@
-package com.jincou.exchange.client.huobi.service.impl;
+package com.oujiong.exchange.client.huobi.service.impl;
 
 import com.google.common.collect.Lists;
-import com.jincou.exchange.client.huobi.HuoBiProWebSocketClient;
-import com.jincou.exchange.client.huobi.Topic;
-import com.jincou.exchange.client.huobi.service.HuoBiProWebSocketService;
-import com.jincou.exchange.client.huobi.service.HuobiProMainService;
+import com.oujiong.exchange.client.huobi.HuoBiProWebSocketClient;
+import com.oujiong.exchange.client.huobi.Topic;
+import com.oujiong.exchange.client.huobi.service.HuoBiProWebSocketService;
+import com.oujiong.exchange.client.huobi.service.HuobiProMainService;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.collections.CollectionUtils;
 import org.springframework.beans.factory.annotation.Autowired;

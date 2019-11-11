@@ -1,6 +1,6 @@
-package com.jincou.exchange.client.scheduler;
+package com.oujiong.exchange.client.scheduler;
 
-import com.jincou.exchange.client.huobi.service.HuobiProMainService;
+import com.oujiong.exchange.client.huobi.service.HuobiProMainService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.scheduling.annotation.Scheduled;

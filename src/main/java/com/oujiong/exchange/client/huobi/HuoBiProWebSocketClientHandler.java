@@ -1,7 +1,7 @@
-package com.jincou.exchange.client.huobi;
+package com.oujiong.exchange.client.huobi;
 
 
-import com.jincou.exchange.client.utils.GZipUtils;
+import com.oujiong.exchange.client.utils.GZipUtils;
 import io.netty.buffer.ByteBuf;
 import io.netty.channel.*;
 import io.netty.handler.codec.http.FullHttpResponse;

@@ -1,4 +1,4 @@
-package com.jincou.exchange.client.utils;
+package com.oujiong.exchange.client.utils;
 
 import java.io.*;
 import java.util.zip.GZIPInputStream;

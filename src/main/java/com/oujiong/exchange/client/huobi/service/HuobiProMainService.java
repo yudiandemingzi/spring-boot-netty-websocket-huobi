@@ -1,4 +1,4 @@
-package com.jincou.exchange.client.huobi.service;
+package com.oujiong.exchange.client.huobi.service;
 
 
 /**
